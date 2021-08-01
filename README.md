@@ -6,4 +6,7 @@ StudyZen is an app that helps students increase their productivity. With feature
 ![](screenshots/prototype.jpg)
 ![](screenshots/prototype2.jpg)
 
-
+# Technologies
+* Swift/Swift UI
+* Objective C
+* Xcode
